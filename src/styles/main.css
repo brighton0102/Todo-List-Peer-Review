@@ -7,15 +7,17 @@
   box-sizing: border-box;
 }
 
-.container {
+.shared-style {
   width: 100%;
+}
+
+.container {
   min-height: 100vh;
   background: linear-gradient(135deg, #d47fff, #7feaff);
   padding: 10px;
 }
 
 .todo-app {
-  width: 100%;
   max-width: 540px;
   background: #fff;
   margin: 100px auto 20px;
