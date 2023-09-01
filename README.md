@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To-Do list] <a name="about-project"></a>
+# 📖 [To-Do list-Peer-Review] <a name="about-project"></a>
 
-**[To-Do list]** is a website that allows users to add and remove and add their daily tasks of the day from a list.
+**[To-Do list-Peer-Review]** is a website that allows users to add and remove and add their daily tasks of the day from a list.
 
 ## 🛠 Built With <a name="built-with"></a>
 
